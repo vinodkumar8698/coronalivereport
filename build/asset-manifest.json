@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/vinodkumar8698/static/css/main.82ec73df.css",
+    "main.js": "/vinodkumar8698/static/js/main.9e4409f6.js",
+    "static/media/image.png": "/vinodkumar8698/static/media/image.9e5d4fc7428c24bbc17d.png",
+    "index.html": "/vinodkumar8698/index.html",
+    "main.82ec73df.css.map": "/vinodkumar8698/static/css/main.82ec73df.css.map",
+    "main.9e4409f6.js.map": "/vinodkumar8698/static/js/main.9e4409f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82ec73df.css",
+    "static/js/main.9e4409f6.js"
+  ]
+}
